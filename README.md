@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @Mrbabet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, SCSS/CSS and JS...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img alt="Hello My name is Kamil" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=false&vCenter=true&width=435&lines=Hello+My+name+is+Kamil">
+
+I am trying to become a Frontend Developer
+
+## Tech I Use
+
+![My Skills](https://skillicons.dev/icons?i=git,github,css,javascript,html)
+
+## Tech I Learn
+
+![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react)
+
+## My stats
+
+<span>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbabet&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mrbabet" /> 
+</span>
+<span>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=mrbabet&show_icons=true&locale=en&theme=transparent" alt="mrbabet" />
+</span>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbabet&label=Profile%20views&color=0e75b6&style=flat" alt="mrbabet" /> </p>
 
 <!---
 Mrbabet/Mrbabet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
