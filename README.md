@@ -1,4 +1,4 @@
-<img alt="Hello my name is Kamil" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=false&vCenter=true&width=435&lines=Hello+my+name+is+Kamil">
+<img alt="Hello my name is Kamil" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=007ACC&center=false&vCenter=true&width=435&lines=Hello+my+name+is+Kamil">
 
 I am trying to become a Frontend Developer
 
