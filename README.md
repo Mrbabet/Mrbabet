@@ -4,7 +4,7 @@ I am trying to become a Frontend Developer
 
 ## Tech I Use
 
-![My Skills](https://skillicons.dev/icons?i=git,github,css,javascript,html)
+![My Skills](https://skillicons.dev/icons?i=git,github,css,scss,javascript,html)
 
 ## Tech I Learn
 
