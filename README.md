@@ -13,7 +13,7 @@ I am trying to become a Frontend Developer
 ## My stats
 
 <span>
-
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbabet&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mrbabet" /> 
 </span>
 <span>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mrbabet&show_icons=true&locale=en&theme=transparent" alt="mrbabet" />
